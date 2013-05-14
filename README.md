@@ -10,4 +10,8 @@
             <li>Comments in ruby ... Strange</li>
         </ul>
     </li>
+    <li>Ruby Classes</li>
+    <ul>
+        <li>Simple class Person saying hello</li>
+    </ul>
 </ol>
